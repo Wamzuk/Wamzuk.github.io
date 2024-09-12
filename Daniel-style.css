@@ -1,0 +1,16 @@
+body {
+    background-image: url(backround_image.png);
+}
+h1 {
+    color: firebrick;
+    background-color: darkolivegreen;
+    width: fit-content;
+}
+p {
+    background-color: chocolate;
+    width: fit-content;
+}
+h2 {
+    background-color:darkolivegreen;
+    width: fit-content;
+}
