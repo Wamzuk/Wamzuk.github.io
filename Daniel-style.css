@@ -5,12 +5,15 @@ h1 {
     color: firebrick;
     background-color:black;
     width: fit-content;
+    text-align: left;
 }
 p {
     background-color: chocolate;
     width: fit-content;
+    text-align: left;
 }
 h2 {
     background-color:darkolivegreen;
     width: fit-content;
+    text-align: left;
 }
